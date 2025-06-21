@@ -12,7 +12,7 @@ const VideoPlayer = () => {
         loop
         muted
       >
-        <source src="/public/bg-video.mp4" type="video/mp4" />
+        <source src="/bg-video.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
       <div className="relative z-10 flex justify-center items-center h-full">
