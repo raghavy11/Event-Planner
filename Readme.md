@@ -7,7 +7,7 @@ A modern event planning dashboard built with React, Tailwind CSS, and Framer Mot
 
 ## 🌐 Live Demo
 
-[Live Link](/https://event-planner-6dwm.vercel.app/)
+[Live Link](https://event-planner-6dwm.vercel.app/)
 
 
 
