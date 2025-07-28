@@ -2,7 +2,7 @@
 
 **FunPlanner** is a full-stack event management web application designed for event managers, coordinators, and professional teams. It provides a centralized dashboard to manage clients, vendors, events, internal communication, and productivity tools — all in one place.
 
-Live Demo: 👉 [https://fun-planner.vercel.app](https://fun-planner.vercel.app)
+
 
 ---
 
@@ -103,8 +103,8 @@ Pull requests, suggestions, and feature ideas are welcome! Feel free to fork the
 
 ## 👤 Author
 
-**OmXDev**  
-🔗 [GitHub Profile](https://github.com/OmXDev)
+**Raghav yadav**  
+🔗 [GitHub Profile](https://github.com/raghavy11)
 
 ---
 
