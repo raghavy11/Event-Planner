@@ -8,7 +8,7 @@
 
 ## 🚀 Features
 
-- ✅ **Authentication** via Email/Password & Google OAuth  
+- ✅ **Authentication** via  
 - 📋 **Client Management** – Add, edit, and manage clients  
 - 📆 **Event Management** – Create events under specific clients  
 - 🛠️ **Vendor Management** – Assign vendors to events seamlessly  
