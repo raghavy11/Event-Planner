@@ -4,10 +4,21 @@ import tailwindcss from '@tailwindcss/vite';
 import svgr from 'vite-plugin-svgr';
 
 export default defineConfig({
-  base: '/', // ✅ fine for Vercel or root domain
+  base: '/',
   plugins: [
-    react(),       // ✅ React with SWC
-    tailwindcss(), // ✅ Tailwind plugin
-    svgr(),        // ✅ SVG import as React components
+    react(),
+    tailwindcss(),
+    svgr(),
   ],
+  build: {
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          react: ['react', 'react-dom'],
+          animations: ['gsap', 'framer-motion'],
+          ui: ['lucide-react'],
+        },
+      },
+    },
+  },
 });
